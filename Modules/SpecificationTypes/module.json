@@ -1,0 +1,13 @@
+{
+    "name": "SpecificationTypes",
+    "alias": "specificationtypes",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SpecificationTypes\\Providers\\SpecificationTypesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

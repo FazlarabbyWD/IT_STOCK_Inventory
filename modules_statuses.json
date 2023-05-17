@@ -1,0 +1,9 @@
+{
+    "Categories": true,
+    "Brands": true,
+    "Companies": true,
+    "Contacts": true,
+    "Products": true,
+    "Users": true,
+    "SpecificationTypes": true
+}
